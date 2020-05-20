@@ -1,0 +1,23 @@
+{
+  "name": "cypress-boilerplate",
+  "version": "1.0.0",
+  "description": "Cypress.io boilerplate to bootstrap application E2E testing",
+  "main": "index.js",
+  "scripts": {
+    "test:e2e": "cypress run",
+    "cypress": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "E2E",
+    "boilerplate",
+    "js"
+  ],
+  "author": "Ohad Shitrit",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.5.0"
+  }
+}
