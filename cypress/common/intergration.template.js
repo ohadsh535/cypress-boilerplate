@@ -64,6 +64,6 @@ describe('Login To Platform', () => {
     cy.get('#search').type('NBA conference finals');
 
     // Clearing localstorage.
-    cy.clearLocalStorage('__indeni_issues_table_settings');
+    cy.clearLocalStorage('__some_sample_storage');
   });
 });

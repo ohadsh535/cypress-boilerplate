@@ -5,7 +5,7 @@ describe('Application Settings', () => {
 
   // Some real use case on common applications.
   // @NOTE - will not work since this repo is not running any UI service to test.
-  it('Navigate to application settings', () => {
+  it('Navigate to application settings - Should fail', () => {
     cy.visit('/admin/settings');
     // Verify redirect was not applied.
     cy.url().should('contain', '/admin/settings');

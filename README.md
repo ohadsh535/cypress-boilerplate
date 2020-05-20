@@ -24,7 +24,7 @@ See the file `common/integration.template.js`, listing and documenting common re
 
 ## Directories / files
 
-`/integration/indeni` - Cypress scripts<br/>
+`/integration/my-app` - Cypress scripts<br/>
 `/support` - Common commands, example (Login)<br/>
 `/cy_templates` - Common boilerplate of script + documentation on commands <br/>
 `/screenshots` \ `/videos` - Last run(s) recordings <br/>

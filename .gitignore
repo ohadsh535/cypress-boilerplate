@@ -117,3 +117,4 @@ dist
 cypress/screenshots
 cypress/videos
 cypress/integration/examples
+package-lock.json
