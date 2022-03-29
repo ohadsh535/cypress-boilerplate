@@ -1,4 +1,4 @@
-This directory exists to cover E2E test across the Indeni Platoform using [cypress](https://www.cypress.io/)<br/>
+This directory exists to cover E2E test across the Platoform using [cypress](https://www.cypress.io/)<br/>
 Cypress scripts are producing screenshots and videos of the scripts run.<br/>
 Scripts can be found on `/cypress/integration/my-app`
 
